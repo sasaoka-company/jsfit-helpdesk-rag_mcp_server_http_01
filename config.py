@@ -41,7 +41,7 @@ SERVER_PORT = 8001
 # MCPツール設定
 # ========================================
 # 就業規則検索ツールの名前
-TOOL_NAME = "search_security_01"
+TOOL_NAME = "search_security"
 
 # 情報セキュリティ関連規定検索ツールの説明文
 TOOL_DESCRIPTION = (
